@@ -25,3 +25,5 @@ Agregar dos atributos a la clase Planeta. El primero debe representar el periodo
 Modificar el constructor de la clase para que inicialice los valores de estos dos nuevos atributos.
 Modificar el método imprimir para que muestre en pantalla los valores de los nuevos atributos.
 
+# Diagrama de Clases
+![0d89536556505e847958e00cc3d08f22](https://github.com/user-attachments/assets/747028ad-0664-4cc1-b1a0-d888f0b6e487)
